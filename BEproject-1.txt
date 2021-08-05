@@ -1,0 +1,27 @@
+Setup
+
+Install and setup Anaconda.
+Open Anaconda Prompt.
+Enter conda create -n dlib_env
+Enter pip install cmake
+Enter conda install -c conda-forge dlib
+Enter pip install opencv-contrib-python
+Enter pip install imutils
+Enter pip install pyautogui 
+
+Check Installation
+
+Enter python
+Enter import dlib
+Enter dlib.__version__
+Enter import cv2
+Enter cv2.__version__
+quit()
+
+Done
+
+How to run
+
+Open project folder in cmd using cd path command
+Activate dlib environment using conda activate dlib_env
+Run python main.py
