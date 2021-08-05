@@ -26,5 +26,7 @@ Open project folder in cmd using cd path command
 Activate dlib environment using conda activate dlib_env
 Run python main.py
 
-![face-recognition-using-opencv](https://user-images.githubusercontent.com/67729118/128348073-d24079bf-c037-47f5-a5d0-77ee6f28d08d.jpg)
+                       ![face-recognition-using-opencv](https://user-images.githubusercontent.com/67729118/128348073-d24079bf-c037-47f5-a5d0-77ee6f28d08d.jpg)
+
+
 The conformity would function in live moment when input are communicated from user so disable as well as normal people could easily achieve remarkable function using computer. Future work will include efficient user input in low light conditions. Customization options for gestures and computer activity can be added along with voice recognition-based typing methods. The system can be turnedinto an executable structure.
